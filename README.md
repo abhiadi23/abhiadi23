@@ -3,7 +3,7 @@
 <!-- Anime Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Wᴇʟᴄᴏᴍᴇ%20&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=IAM+A+DEV+OF+REX+BOTS!;YOU+CAN+SAY+ME+SEISHIRO)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=IAM+A+DEV+OF+REX+BOTS!;YOU+CAN+CALL+ME+SEISHIRO!)</p>
 </p>
 <!-- Character GIF -->
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="Anime coding gif"/>
