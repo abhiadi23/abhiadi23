@@ -6,8 +6,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=IAM+A+DEV+OF+REX+BOTS!;YOU+CAN+CALL+ME+SEISHIRO!)</p>
 </p>
 <!-- Character GIF -->
-<img src="https://ibb.co/W4wNqhbh" width="400" alt="Anime coding gif"/>
-
+[![images-(24).png](https://ibb.co/W4wNqhbh)]
 <!-- Decorative Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
