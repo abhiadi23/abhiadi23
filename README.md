@@ -95,53 +95,15 @@
 ![Website development](https://img.shields.io/badge/Website_Development-A855F7?style=for-the-badge&logo=files&logoColor=white)
 </div>
 
-## 🏆 Quest Achievements ━━━━━━━━━━━━━━━━━━━━━━━━━
+## 「 Sᴇɪsʜɪʀᴏ - Rᴇx ʙᴏᴛs 」
+✦━━━━━━━━━━━━━━━━━✦
+• Yᴏᴜ ᴄᴀɴ ᴀʟsᴏ sᴀʏ ᴍᴇ Sᴇɪsʜɪʀᴏ. Iᴛ's ᴍʏ ɴɪᴄᴋɴᴀᴍᴇ. Iᴀᴍ ᴊᴜsᴛ ʟᴇᴀʀɴɪɴɢ ɴᴇᴡ ᴛʜɪɴɢs ᴅᴀʏ ʙʏ ᴅᴀʏ.
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhiadi23&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
-
-</div>
-
-## 🎯 Current Quest Log ━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<div align="center">
-
-```diff
-+ 🤖 Mastering Telegram Bot Development
-+ 🔧 Building Advanced File Storage Systems
-+ 🌟 Creating Auto-Rename & AutoFilter Bots
-+ 📚 Learning Advanced Python Techniques
-+ 🎨 Exploring Bot UI/UX Improvements
-+ 🕷️ Web Scraping & Automation Projects
-```
-
-</div>
-
-## 💼 Featured Projects ━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<div align="center">
-
-<a href="https://github.com/abhiadi23/VJ-File-Store">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhiadi23&repo=VJ-File-Store&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=58A6FF" />
-</a>
-
-<a href="https://github.com/abhiadi23/AutoFilter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhiadi23&repo=AutoFilter&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=58A6FF" />
-</a>
-
-<a href="https://github.com/abhiadi23/Auto-Rename-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhiadi23&repo=Auto-Rename-Bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=58A6FF" />
-</a>
-
-<a href="https://github.com/abhiadi23/FileStore">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhiadi23&repo=FileStore&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=58A6FF" />
-</a>
-
-</div>
+• Iᴀᴍ ᴀ Iɴᴅɪᴀɴ ʙᴏʏ ʟɪᴠɪɴɢ ɪɴ Dᴇʟʜɪ ᴡʜᴏ ᴡᴀɴᴛs ᴛᴏ ʟᴇᴀʀɴ ɴᴇᴡ ᴛᴇᴄʜ ᴛʜɪɴɢs
+✦━━━━━━━━━━━━━━━━━✦
 
 ## 「 Cᴏɴᴛᴀᴄᴛ ᴍᴇ 」
-━━━━━━━━━━━━━━━━━━━━━━━━━
+✦━━━━━━━━━━━━━━━━━✦
 
 <div align="center">
 
@@ -149,15 +111,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhiadi23)
 </div>
 
-## 💭 Random Dev Quote ━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-## 📈 Profile Views ━━━━━━━━━━━━━━━━━━━━━━━━━
+## 「 Vɪᴇᴡs 」
+✦━━━━━━━━━━━━━━━━━✦
 
 <div align="center">
 
