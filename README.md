@@ -3,9 +3,8 @@
 <!-- Anime Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Wᴇʟᴄᴏᴍᴇ%20&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
-<!-- Animated Title -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Konnichiwa!+%F0%9F%91%8B+I'm+abhiadi23;Telegram+Bot+Enthusiast+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Code+Alchemist+%E2%9C%A8;Forever+Learning+%F0%9F%93%9A" alt="Typing SVG" />
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=IAM+A+DEV+OF+REX++BOTS!)</p>
+</p>
 <!-- Character GIF -->
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="Anime coding gif"/>
 
