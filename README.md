@@ -17,10 +17,9 @@
  ✦━━━━━━━━━━━━━━━━━✦
 
 • Iᴀᴍ ᴀ ᴘʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ ᴀʟsᴏ ʟᴇᴀʀɴɪɴɢ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ʟᴀɴɢᴜᴀɢᴇs. 
-
 • Iᴀᴍ ᴀʟᴡᴀʏs ʀᴇᴀᴅʏ ᴛᴏ ʟᴇᴀʀɴ ɴᴇᴡ ᴛʜɪɴɢs.
-
 • Iᴀᴍ ᴀ ᴏғғɪᴄɪᴀʟ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴏғ Rᴇx ʙᴏᴛs.
+
 ✦━━━━━━━━━━━━━━━━━✦
 
 <div align="center">
@@ -31,7 +30,8 @@
 
 </div>
 
-## ⚡ Power Stats ━━━━━━━━━━━━━━━━━━━━━━━━━
+## ─「Mʏ ʀᴇᴘᴏʀᴛ」─
+✦━━━━━━━━━━━━━━━━━✦
 
 <div align="center">
 
@@ -43,11 +43,12 @@
 
 </div>
 
-## 🛠️ Tech Arsenal ━━━━━━━━━━━━━━━━━━━━━━━━━
+## ─「Tᴇᴄʜ Aʀsᴇɴᴀʟ」─
+✦━━━━━━━━━━━━━━━━━✦
 
 <div align="center">
 
-### 「 Programming Languages 」
+• Iᴀᴍ ᴊᴜsᴛ ʟᴇᴀʀɴɪɴɢ ɴᴇᴡ ᴛʜɪɴɢs ᴅᴀʏ ʙʏ ᴅᴀʏ.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
