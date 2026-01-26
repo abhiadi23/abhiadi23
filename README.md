@@ -118,11 +118,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhiadi23&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
 
-<!-- Visitor Badge with Anime Style -->
-<img src="https://visitcount.itsvg.in/api?id=abhiadi23&icon=5&color=6" />
-
-</div>
-
 ---
 
 <div align="center">
