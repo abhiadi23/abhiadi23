@@ -118,6 +118,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhiadi23&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
 
+![1]
+(src="image(25).png")
+
 ---
 
 <div align="center">
