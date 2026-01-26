@@ -13,22 +13,12 @@
 
 </div>
 
-## 📖 About Me ━━━━━━━━━━━━━━━━━━━━━━━━━
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "abhiadi23"
-        self.role = "Telegram Bot Developer"
-        self.language_spoken = ["en_US", "hi_IN"]
-        self.code_language = ["Python", "Java", "JavaScript", "PHP", "HTML", "CSS"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
-
-me = Developer()
-me.say_hi()
-```
+ # ─「Aʙᴏᴜᴛ ᴍᴇ」─
+ ✦━━━━━━━━━━━━━━━━━✦
+• Iᴀᴍ ᴀ ᴘʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ ᴀʟsᴏ ʟᴇᴀʀɴɪɴɢ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ʟᴀɴɢᴜᴀɢᴇs. 
+• Iᴀᴍ ᴀʟᴡᴀʏs ʀᴇᴀᴅʏ ᴛᴏ ʟᴇᴀʀɴ ɴᴇᴡ ᴛʜɪɴɢs.
+• Iᴀᴍ ᴀ ᴏғғɪᴄɪᴀʟ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴏғ Rᴇx ʙᴏᴛs.
+✦━━━━━━━━━━━━━━━━━✦
 
 <div align="center">
 
